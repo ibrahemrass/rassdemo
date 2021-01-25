@@ -1,4 +1,5 @@
 # GIT
+![git](https://res.cloudinary.com/practicaldev/image/fetch/s--bjpVKHPe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8ogqpfkvqqpyfbs3w6p7.png)
 * Git is a DVCS that stores data in a file system made up of snapshots.
 Each time you save a changed version of your project — called commit — Git creates a snapshot
 of the file and stores a reference to it. 
@@ -15,3 +16,12 @@ And, as the gatekeeper, Git will always detect file corruption or loss of inform
 - committed 
 - modified
 - stage
+
+## git features
+
+
+- Importing
+- Cloning
+- Saving Changes
+- Check File Status
+- Tracking and Staging a New File
