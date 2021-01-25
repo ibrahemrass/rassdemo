@@ -10,4 +10,9 @@ The history of video games goes as far back as the early 1950s, when academic co
 ### now lats talk about growth mindst and does gaming make u a growth mindset 
 ### people embrace challendes and keep trying even when its hard considerd as a groth mindset 
 
+
 ![A test image](https://garrygudini.com/wp-content/uploads/2020/09/200124_Vignette_Web_Detail.jpg)
+
+With a game, kids already expect a learning curve. They know they have to learn the rules in order to play. Whether in kickball on the playground or in a video game, there are rules about what you can and cannot do. This transfers directly to any educational concept where requisite knowledge is required.
+
+**ues yet**  With a game, kids already expect a learning curve. They know they have to learn the rules in order to play. Whether in kickball on the playground or in a video game, there are rules about what you can and cannot do. This transfers directly to any educational concept where requisite knowledge is required.
