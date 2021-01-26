@@ -5,7 +5,9 @@ im  glad to be on this journey with u all and hoping
 
 ## Table of Contents
 [mindset](https://ibrahemrass.github.io/reading-notes/mindset)
+
 [read02a](https://ibrahemrass.github.io/reading-notes/read02a)
+
 [git](https://ibrahemrass.github.io/reading-notes/git)
 
 
