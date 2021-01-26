@@ -1,18 +1,8 @@
-# gaming rass
-welcome evrybody 
+#ibrahem aburass home page 
+hello, I am Aibrahem aburass ,I have bachelor degree in accounting at yarmouk university . I hope to enhance my self in coding to be good developer,I am looking for learn something new  
+im  glad to be on this journey with u all and hoping 
+ that we will work together to improve our skills 
+
+## Table of Contents
 
 
-## gaming history
-The history of video games goes as far back as the early 1950s, when academic computer scientists began designing simple games and simulations as part of their research or just for recreation.  During the 1970s, the first generation of home consoles emerged, including the popular game Pong and various "clones".
- to know more  [open this](https://en.wikipedia.org/wiki/History_of_video_games#:~:text=The%20history%20of%20video%20games%20goes%20as%20far%20back%20as,research%20or%20just%20for%20recreation.&text=During%20the%201970s%2C%20the%20first,Pong%20and%20various%20%22clones%22.).
-
-
-### now lats talk about growth mindst and does gaming make u a growth mindset 
-### people embrace challendes and keep trying even when its hard considerd as a groth mindset 
-
-
-![A test image](https://garrygudini.com/wp-content/uploads/2020/09/200124_Vignette_Web_Detail.jpg)
-
-With a game, kids already expect a learning curve. They know they have to learn the rules in order to play. Whether in kickball on the playground or in a video game, there are rules about what you can and cannot do. This transfers directly to any educational concept where requisite knowledge is required.
-
-**ues yet**  With a game, kids already expect a learning curve. They know they have to learn the rules in order to play. Whether in kickball on the playground or in a video game, there are rules about what you can and cannot do. This transfers directly to any educational concept where requisite knowledge is required.
