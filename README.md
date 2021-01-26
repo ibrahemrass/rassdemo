@@ -10,4 +10,8 @@ im  glad to be on this journey with u all and hoping
 
 [git](https://ibrahemrass.github.io/reading-notes/git)
 
+[read03d](https://ibrahemrass.github.io/reading-notes/read03d)
+
+
+
 
