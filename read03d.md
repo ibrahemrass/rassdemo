@@ -41,6 +41,24 @@ if not , it should contain information about the entire page
 if u have a  Internet Explorer 9 you are ok 
 but if u have  Internet Explorer 8 or less u need to help him to understand the html and u have to ues  JavaScript for that 
 
+
+### Extra markup
+Summary
+EXTRA MARKUP
+- DOCTYPES tell browsers which version of HTML you
+are using.
+- You can add comments to your code between the
+<!-- and --> markers.
+- The id and class attributes allow you to identify
+particular elements.
+- The <div> and <span> elements allow you to group
+block-level and inline elements together.
+-<iframes> cut windows into your web pages through
+which other pages can be displayed.
+- The <meta> tag allows you to supply all kinds of
+information about your web page.
+- Escape characters are used to include special
+characters in your pages such as <, >, and ©
  
 
 
