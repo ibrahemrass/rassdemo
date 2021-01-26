@@ -22,7 +22,27 @@ parts of a page and belwo here are some example
 The main header or footer that appears at the top or battom 
  every page on the site
  - Navigation <niv>
+ element is used to
+contain the major navigational blocks on the site such as the
+primary site navigation
+
+- Articles <article>
+ acts as
+a container for any section of a page that could stand alone and
+potentially be syndicated.
+- asides <aside> 
+ has two
+purposes, depending on whether it is inside an <article>
+element or no
+if it is inside , it should contain information that is related to the article
+if not , it should contain information about the entire page
+
+## Helping Older Browsers Understand  
+if u have a  Internet Explorer 9 you are ok 
+but if u have  Internet Explorer 8 or less u need to help him to understand the html and u have to ues  JavaScript for that 
+
  
+
 
 
  
