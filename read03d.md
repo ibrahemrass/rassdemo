@@ -15,6 +15,16 @@ easy on the eye
 and of course You can differentiate between pieces of information
 using size, color, and style 
 
+# New Html5 Layout elements
+HTML5 introduces a new set of elements that allow you to divide up the
+parts of a page and belwo here are some example 
+- Headers & Footers <header> <footer> 
+The main header or footer that appears at the top or battom 
+ every page on the site
+ - Navigation <niv>
+ 
 
+
+ 
 
  
