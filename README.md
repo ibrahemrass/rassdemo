@@ -4,5 +4,6 @@ im  glad to be on this journey with u all and hoping
  that we will work together to improve our skills 
 
 ## Table of Contents
+mindset
 
 
