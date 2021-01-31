@@ -12,6 +12,12 @@ im  glad to be on this journey with u all and hoping
 
 [read03d](https://ibrahemrass.github.io/reading-notes/read03d)
 
+[read05](https://ibrahemrass.github.io/reading-notes/read05)
+
+[read06](https://ibrahemrass.github.io/reading-notes/read06)
+
+
+
 
 
 
