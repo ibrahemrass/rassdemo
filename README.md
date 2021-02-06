@@ -19,6 +19,8 @@ im  glad to be on this journey with u all and hoping
 
 
 ### Table of Contents reading note 201 
+[class-01](https://ibrahemrass.github.io/reading-notes/class-01)
+
 
 
 
