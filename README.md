@@ -21,7 +21,7 @@ im  glad to be on this journey with u all and hoping
 ### Table of Contents reading note 201 
 [class-01](https://ibrahemrass.github.io/reading-notes/class-01)
 [class-02](https://ibrahemrass.github.io/reading-notes/class-02)
-
+[class-03](https://ibrahemrass.github.io/reading-notes/class-03)
 
 
 
