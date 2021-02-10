@@ -23,7 +23,7 @@ im  glad to be on this journey with u all and hoping
 [class-02](https://ibrahemrass.github.io/reading-notes/class-02)
 [class-03](https://ibrahemrass.github.io/reading-notes/class-03)
 [class-04](https://ibrahemrass.github.io/reading-notes/class-04)
-
+[class-05](https://ibrahemrass.github.io/reading-notes/class-05)
 
 
 
