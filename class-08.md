@@ -1,27 +1,14 @@
-# Html Layout
+# css Layout
+* The layout it is a collection of  layouts and patterns made with CSS.
+* normal flow
+ In normal flow, each block-level element sits on top of the next one. Since this is the default way in which browsers treat HTML elements, you do not need a CSS property to indicate that elements should appear in normal flow, but the syntax would be: position: static; I have not specified a width property for the heading element, so you can see how it stretches the width of the entire browser window by default.
 
-* Headers & Footers 
-The < header > and < footer > elements can be used for:
--The main header or footerthat appears at the top or bottom of every page on the site.
- A header or footer for an individual < article > or < section >  within the page.
+* relative postitioning
+position:relative: moves an element in relation to where it would have been in normal flow. You can indicate that an element should be relatively positioned using the position property with a value of relative.
 
+* absolute possitioning
+When the position property is given a value of absolute, the box is taken out of normalflow and no longer affects the position of other elements on the page. (They act like it is notthere.)
 
- * Navigation 
- The < nav > element is used to contain the major navigational blocks on the site such as the primary site navigation.
+* Fixed Positioning
+ Fixed positioning is a type of absolute positioning that requires the position property to have a value of fixed.
 
-* Articles 
-The < article > element acts as a container for any section of a page that could stand alone and potentially be syndicated.
-
-* Asides 
-if its inside the artical element , it should contain information that is related to the article but not essential to it 
-if its out side the artical element , it acts as a container for content that is related to the entire page
-
-* Sections 
-
-The < section> element groups related content together, and typically each section would have its own heading
-
-* Heading Groups
- the purpose of the < hgroup >element is to group together a set of one or more < h1 > through < h6 > elements so that they are
-treated as one single heading.
- 
- 
