@@ -2,7 +2,10 @@
 
 all progremer will macke some mistake on writing a code and these are the most comman error object  
 
-ERROR OBJECTS 
+* ERROR OBJECTS 
+
+
+
 Error is the error effect on the code work
 
 SyntaxError this error when we have error in spacific line like write something wrong
